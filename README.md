@@ -14,6 +14,6 @@ My main interests include
 
 Contact me with smoke/bat-signals, or see me at the following:
 
-- [My blog](https://evoniuk.github.io)
-- [My Spotify](https://open.spotify.com/user/evoniuk)
+- [Blog](https://evoniuk.github.io)
+- [Spotify](https://open.spotify.com/user/evoniuk)
 - [Goodreads](https://www.goodreads.com/user/show/85149988-jack)
