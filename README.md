@@ -1,16 +1,15 @@
-### Hi there 👋
+## Jack Evoniuk
 
-<!--
-**Evoniuk/Evoniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an incurably curious person who needs every assumption justified. 
 
-Here are some ideas to get you started:
+My main interests include
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Literature (especially Russian)
+- History (especially Russian)
+- Languages (especially Russian)
+- Computers (especially ~~Russian~~ low-level stuff)
+- Writing (mostly technical, but also creative)
+- Math (especially calculus and formal logic)
+- Music Theory (Even though music's been going downhill since 1750)
+
+Contact me with smoke/bat-signals.
