@@ -1,4 +1,4 @@
-## Jack Evoniuk
+# Jack Evoniuk
 
 I'm an incurably curious person who needs every assumption justified. 
 
