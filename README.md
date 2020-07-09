@@ -12,4 +12,4 @@ My main interests include
 - Math (especially calculus and formal logic)
 - Music Theory (Even though music's been going downhill since 1750)
 
-Contact me with smoke/bat-signals, or [check out my blog](https://evoniuk.github.io)
+Contact me with smoke/bat-signals, or [check out my blog](https://evoniuk.github.io).
