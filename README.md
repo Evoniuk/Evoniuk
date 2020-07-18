@@ -12,6 +12,8 @@ My main interests include
 - Math (especially calculus and formal logic)
 - Music and Music Theory (even though music's been going downhill since 1750)
 
+I program mostly in JavaScript, but also do some C and Python.
+
 Contact me with smoke/bat-signals, or see me at the following:
 
 - [Blog](https://evoniuk.github.io)
