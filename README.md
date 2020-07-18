@@ -10,7 +10,7 @@ My main interests include
 - Computers (especially ~~Russian~~ low-level stuff)
 - Writing (mostly technical, but also creative)
 - Math (especially calculus and formal logic)
-- Music Theory (Even though music's been going downhill since 1750)
+- Music and Music Theory (even though music's been going downhill since 1750)
 
 Contact me with smoke/bat-signals, or see me at the following:
 
