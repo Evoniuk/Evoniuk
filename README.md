@@ -12,9 +12,11 @@ My main interests include
 - Math (especially calculus and formal logic)
 - Music and Music Theory (even though music's been going downhill since 1750)
 
-I program mostly in JavaScript, but also do some C and Python.
+I program mostly in JavaScript and C, but also do some Python and dabble in 6502.
 
-Contact me with smoke/bat-signals, or see me at the following:
+Contact me with smoke/bat-signals, or at jack dot evoniuk at gmail. (I'm currently looking for a new job, so if you're hiring for a technical writer or software engineer...)
+
+See me at the following:
 
 - [Blog](https://evoniuk.github.io)
 - [Spotify](https://open.spotify.com/user/evoniuk)
