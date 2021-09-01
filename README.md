@@ -14,7 +14,7 @@ My main interests include
 
 I program mostly in JavaScript and C, but also do some Python and dabble in 6502.
 
-Contact me with smoke/bat-signals, or at **jack dot evoniuk at gmail**. (I'm currently looking for a new job, so if you're hiring for a technical writer or software engineer...)
+Contact me with smoke/bat-signals, or at **jack dot evoniuk at gmail**.
 
 See me at the following:
 
