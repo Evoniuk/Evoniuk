@@ -10,3 +10,5 @@ See me at the following:
 - [Personal Blog](https://evoniuk.github.io/blog/)
 - [Spotify](https://open.spotify.com/user/evoniuk)
 - [Goodreads](https://www.goodreads.com/user/show/85149988-jack)
+
+Or see [me at work](https://github.com/jevoniuk)!
